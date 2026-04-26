@@ -93,7 +93,9 @@ Conclusions & Recommendations
 ## 📂 Data Source
 
 **Dirección General de Tráfico (DGT)**  
-[datos.gob.es — Ficheros microdatos accidentes 2023](https://datos.gob.es)
+
+- Main data: [DGT Microdatos 2023](https://www.dgt.es/menusecundario/dgt-en-cifras/dgt-en-cifras-resultados/dgt-en-cifras-detalle/Ficheros-microdatos-de-accidentes-con-victimas-2023/)
+- GeoJSON: [Spain Provinces](https://github.com/codeforgermany/click_that_hood)
 
 > Each row represents one road accident with victims 
 > recorded in Spain during 2023.
