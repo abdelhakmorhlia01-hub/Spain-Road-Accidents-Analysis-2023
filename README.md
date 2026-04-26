@@ -42,6 +42,11 @@ conditions profiling.
   as signposted ones
 
 ---
+## 🗺️ Interactive Maps
+| Map | Link |
+|---|---|
+| Total Accidents by Province | [View Map](https://abdelhakmorhlia01-hub.github.io/Spain-Road-Accidents-Analysis-2023/total_accidents_by_province.html) |
+| Fatality Rate by Province | [View Map](https://abdelhakmorhlia01-hub.github.io/Spain-Road-Accidents-Analysis-2023/fatality_rate_by_province.html) |
 
 ## 🗂️ Project Structure
 
@@ -88,6 +93,7 @@ Conclusions & Recommendations
    46% of accidents occur on municipal roads
 
 ---
+
 
 ## 📂 Data Source
 
